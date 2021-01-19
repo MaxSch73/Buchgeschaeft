@@ -1,0 +1,7 @@
+C:\Users\maxsc\source\repos\Buchgeschäft\Buchgeschäft\bin\Debug\Buchgeschäft.exe.config
+C:\Users\maxsc\source\repos\Buchgeschäft\Buchgeschäft\bin\Debug\Buchgeschäft.exe
+C:\Users\maxsc\source\repos\Buchgeschäft\Buchgeschäft\bin\Debug\Buchgeschäft.pdb
+C:\Users\maxsc\source\repos\Buchgeschäft\Buchgeschäft\obj\Debug\Buchgeschäft.csprojAssemblyReference.cache
+C:\Users\maxsc\source\repos\Buchgeschäft\Buchgeschäft\obj\Debug\Buchgeschäft.csproj.CoreCompileInputs.cache
+C:\Users\maxsc\source\repos\Buchgeschäft\Buchgeschäft\obj\Debug\Buchgeschäft.exe
+C:\Users\maxsc\source\repos\Buchgeschäft\Buchgeschäft\obj\Debug\Buchgeschäft.pdb
